@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /publication/
   - title: "Blog"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Extra-curricular"
-    url: page
+  - title: "Curriculum Vitea"
+    url: /cv/
