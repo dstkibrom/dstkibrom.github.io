@@ -108,28 +108,17 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : ""
   location         : "Aichi, Japan"
-  googlescholar    : "https://scholar.google.com/citations?user=5qXxKV4AAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Kibrom-Desta-2"
+  email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=5qXxKV4AAAAJ&hl=en&oi=ao"
+    - label: "Research Gate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Kibrom-Desta-2"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-4363-8560"
 
 # Site Footer
 footer:
