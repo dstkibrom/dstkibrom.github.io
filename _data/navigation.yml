@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Publications"
-    url: /publication/
+    url: /publications/
   - title: "Blog"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://medium.com/@kibromdst
   - title: "Curriculum Vitea"
-    url: /cv/
+    url: cv

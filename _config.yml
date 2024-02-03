@@ -117,7 +117,7 @@ author:
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Kibrom-Desta-2"
     - label: "ORCID"
-      icon: "fab fa-orcid"
+      icon: "fab"
       url: "https://orcid.org/0000-0002-4363-8560"
 
 # Site Footer
@@ -282,3 +282,11 @@ defaults:
       share: true
       related: true
       show_date: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
