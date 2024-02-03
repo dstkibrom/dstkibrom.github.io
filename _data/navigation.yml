@@ -1,8 +1,9 @@
 # main links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=5qXxKV4AAAAJ&hl=en&oi=ao
   - title: "Blog"
     url: https://medium.com/@kibromdst
   - title: "Curriculum Vitea"
     url: cv
+
