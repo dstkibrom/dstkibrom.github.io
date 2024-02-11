@@ -39,3 +39,4 @@ Honours and awards
 * 24 MAR 2022 - Academic excellence award from Nara Institute of Science and Technology – Nara Institute of Science and Technology
 * 24 MAR 2022 - Academic excellence award from Nara Institue of Science and Technology Alumni – Nara Institute of
 Science and Technology
+[https://www.naist.jp/news/2023/03/009774.html](https://www.naist.jp/news/2023/03/009774.html)
