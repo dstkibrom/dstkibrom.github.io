@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-#for local, sudo bundle exec jekyll serve
+#for local, sudo bundle install, sudo bundle exec jekyll serve
 # gem "minimal-mistakes-jekyll"
 
 #for github
